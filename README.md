@@ -2,7 +2,7 @@
 
 ## :newspaper: About the project
 
-
+A very basic E-Mail Spam Filter.
 
 ### Content overview
 
